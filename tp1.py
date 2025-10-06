@@ -148,4 +148,4 @@ I_scaled = scaler.transform(I_flat)
 # Predict
 y_pred_web = knn_best.predict(I_scaled)
 print("Powell.jpg →", name[int(y_pred_web[0])])
-Remove old TP1.pyfile
+Remove old TP1.py file
