@@ -42,4 +42,4 @@ This project implements a **machine learning pipeline** for **image classificati
 ## ⚙️ How to Run
 ```bash
 pip install -r requirements.txt
-python TP2.py
+python TP2_ETU.py
